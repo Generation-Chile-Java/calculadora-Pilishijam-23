@@ -21,7 +21,7 @@ public class Calculadora {
         System.out.println("El resultado de la resta (➖) es: " + (numeroUno - numeroDos));
         System.out.println("El resultado de la Multiplicación (✖️) es: " + (numeroUno * numeroDos));
         System.out.println("El resultado de la División (➗) es: " + (numeroUno / numeroDos));
-        System.out.println("El resultado de la División (%) es: " + (numeroUno % numeroDos));
+        System.out.println("El resultado o resto de la División (%) es: " + (numeroUno % numeroDos));
 
 
 
